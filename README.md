@@ -1,6 +1,6 @@
 
-**Responsible AI in Healthcare Recommendation System(Hospital readmission due to diabetes)
-**
+**Responsible AI in Healthcare Recommendation System(Hospital readmission due to diabetes**
+
 This repository contains the code and methodologies used for my dissertation, where I explored the application of Responsible AI in a healthcare recommendation system. I specifically focused on identifying and mitigating bias using AI Fairness 360 (AIF360) to ensure fairness across different demographic groups. The project leverages machine learning models to make recommendations while maintaining fairness and accuracy.
 
 Table of Contents
