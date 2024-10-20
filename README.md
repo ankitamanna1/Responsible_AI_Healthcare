@@ -50,8 +50,10 @@ After applying these algorithms, the bias was successfully mitigated without sig
 
 
 **Results**
+
 Best Performing Model: XGBoost achieved the highest accuracy after hyperparameter tuning.
 Bias Mitigation: While bias was initially introduced after model training, both preprocessing and in-processing methods successfully mitigated bias, ensuring fairness in the final recommendation system.
+
 **Technologies Used**
 Python
 AIF360 (AI Fairness 360) for bias detection and mitigation
