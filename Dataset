@@ -1,0 +1,7 @@
+The data source of this study is an open source data repository named UCI machine learning repository in CSV format (comma separated value).  The dataset contains 10 years of clinical care at 130 hospitals and integrated delivery system throughout United States. It includes 50 features and 101767 numbers of patient history. Initially data from different participating institutions was collected periodically in the health facts database. After that, the dataset was created by extracting the encounters of interest and cleaning preliminary. 
+The dataset contains 3 different types of readmission:
+1. No re-admission
+2. A re-admission in less than 30 days
+3. A re-admission more than 30 days
+[Data source: https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008]
+
