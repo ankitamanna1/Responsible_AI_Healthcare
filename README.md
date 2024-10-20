@@ -3,7 +3,6 @@
 
 This repository contains the code and methodologies used for my dissertation, where I explored the application of Responsible AI in a healthcare recommendation system. I specifically focused on identifying and mitigating bias using AI Fairness 360 (AIF360) to ensure fairness across different demographic groups. The project leverages machine learning models to make recommendations while maintaining fairness and accuracy.
 
-- Table of Contents
 - Project Overview
 - Motivation
 - Methodology
@@ -13,7 +12,7 @@ This repository contains the code and methodologies used for my dissertation, wh
 - Results
 - Technologies Used
 
-**Project Overview******
+**Project Overview**
 The main goal of this project is to ensure fairness and transparency in a healthcare recommendation system by identifying and mitigating bias during the machine learning model development process. Bias in healthcare recommendations can have serious consequences, so fairness metrics such as disparate impact were used to detect any unfair outcomes. Bias was mitigated using both preprocessing and in-processing algorithms from the AIF360 library.
 
 **Motivation**
@@ -23,7 +22,8 @@ As AI-driven systems become more integrated into healthcare, there is an increas
 Data Preprocessing
 Data Cleaning: The dataset was thoroughly cleaned, including handling missing values and outliers.
 Feature Engineering: Additional features were created based on domain knowledge to improve model performance.
-Modeling
+
+**Modeling**
 **Five machine learning models were trained on the dataset:**
 
 Logistic Regression
