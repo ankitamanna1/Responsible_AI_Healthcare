@@ -45,6 +45,10 @@ After applying the machine learning models, an increase in bias was detected in 
 Preprocessing Algorithms: Techniques such as re-weighting and data transformation were applied to mitigate bias before model training.
 In-Processing Algorithms: Models were modified during the training process using techniques like adversarial debiasing and prejudice remover to reduce the bias.
 After applying these algorithms, the bias was successfully mitigated without significant loss in model performance.
+
+![image](https://github.com/user-attachments/assets/48198e4c-834d-4844-b8fd-0dd816db7bb7)
+
+
 **Results**
 Best Performing Model: XGBoost achieved the highest accuracy after hyperparameter tuning.
 Bias Mitigation: While bias was initially introduced after model training, both preprocessing and in-processing methods successfully mitigated bias, ensuring fairness in the final recommendation system.
